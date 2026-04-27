@@ -1,4 +1,3 @@
-%%writefile /content/cell-segmentation-pipeline/src/pipeline.py
 
 """
 3D Cell Segmentation Pipeline
