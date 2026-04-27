@@ -1,6 +1,4 @@
 # cell-segmentation-pipeline
-with open('README.md', 'w') as f:
-    f.write("""# Cell Segmentation Pipeline
 
 Automated 3D morphological analysis of confocal microscopy data from Leica `.lif` files using Cellpose.
 
@@ -75,5 +73,3 @@ See [docs/methodology.md](docs/methodology.md) for full step-by-step methodology
 Muhammad Ali Aldribi  
 BSc Computer Science, NYU Abu Dhabi  
 Microscopy Lab, NYUAD
-""")
-print("✅ README.md created")
