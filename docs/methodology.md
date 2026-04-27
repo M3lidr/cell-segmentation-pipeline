@@ -1,5 +1,3 @@
-with open('docs/methodology.md', 'w') as f:
-    f.write("""# Methodology
 
 ## Data
 
@@ -121,6 +119,5 @@ Typical retention rate: ~65–75% of Cellpose detections pass all filters.
 - `scipy` — signal processing
 - `pandas` — data management
 - `matplotlib` — visualization
-""")
-print("✅ docs/methodology.md created")
+
 
